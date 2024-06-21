@@ -1,3 +1,7 @@
+> Welcome to my fork! I've added a workflow to build and host this image myself:
+>
+> [![Publish Docker](https://github.com/DrEsteban/qbittorrent-hotio/actions/workflows/docker.yml/badge.svg)](https://github.com/DrEsteban/qbittorrent-hotio/actions/workflows/docker.yml)
+
 # Documentation
 
 All our documentation is located at [hotio.dev](https://hotio.dev).
